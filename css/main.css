@@ -481,7 +481,7 @@ fieldset[disabled] .btn-success.active {
   width: 1px;
   margin-left: 35px;
   background-color: #2C3E50;
-  transform: rotate(45deg);
+  transforbrm: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
   -webkit-transform: rotate(45deg);
