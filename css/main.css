@@ -212,7 +212,8 @@ section.about {
 }
 
 section.cv {
-    background: #555555;
+    /*background: #555555;*/
+    background: white;
     color: black;
 }
 
