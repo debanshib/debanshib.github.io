@@ -106,7 +106,7 @@ header .intro-text .skills {
 }
 
 emphasize {
-    background: #18BC9C;
+    color: #18BC9C;
 }
 
 .navbar-custom {
@@ -209,6 +209,10 @@ section.about {
     padding-top: 200px;
     background: black;
     color: white;
+}
+
+section.project {
+    background: #18BC9C;
 }
 
 section.cv {
