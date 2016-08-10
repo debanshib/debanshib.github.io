@@ -200,9 +200,13 @@ section.success {
 }
 
 section.about {
-    padding-top: 100px;
+    padding-top: 200px;
     background: black;
     color: white;
+}
+
+section.cv {
+    background: #808080;
 }
 
 #portfolio .portfolio-item {
