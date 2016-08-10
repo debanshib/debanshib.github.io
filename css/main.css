@@ -206,7 +206,9 @@ section.about {
 }
 
 section.cv {
-    background: #808080;
+    background: #555555;
+    color: black;
+    align-items: center;
 }
 
 #portfolio .portfolio-item {
