@@ -104,6 +104,11 @@ header .intro-text .skills {
     font-size: 1.75em;
   }
 }
+
+emphasize {
+    background: #18BC9C;
+}
+
 .navbar-custom {
   /*background: #2C3E50;*/
    background: #18BC9C;
