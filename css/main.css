@@ -200,6 +200,7 @@ section.success {
 }
 
 section.about {
+    padding-top: 100px;
     background: black;
     color: white;
 }
