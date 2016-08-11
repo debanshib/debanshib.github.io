@@ -11,6 +11,10 @@ p {
   font-size: 20px;
 }
 
+.pr {
+  font-size: 30px;
+}
+
 .block {
   display: block;
   float: left;
