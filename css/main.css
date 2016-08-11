@@ -12,6 +12,7 @@ p {
 }
 
 .block {
+  display: block;
   float: left;
 }
 
