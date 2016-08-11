@@ -82,9 +82,9 @@ emphasize {
 
 .navbar-custom {
   /*background: #2C3E50;*/
-  /* background: #18BC9C;*/
+   background: #18BC9C;
 /*  background: #e74c3c;*/
-  background: black;
+ /* background: black;*/
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -180,10 +180,10 @@ section.success {
 
 section.about {
     padding-top: 200px;
- /*   background: black;*/
-   /* color: white;*/
-   background: white;
-   color: black;
+    background: black;
+    color: white;
+  /* background: white;
+   color: black;*/
 }
 
 section.project {
