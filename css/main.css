@@ -10,6 +10,11 @@ body {
 p {
   font-size: 20px;
 }
+
+p.larger {
+  font-size: 35px;
+}
+
 p.small {
   font-size: 16px;
 }
