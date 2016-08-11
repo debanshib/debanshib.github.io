@@ -15,6 +15,11 @@ p.larger {
   font-size: 2em;
 }
 
+.panel-heading{
+  font-size: 18px;
+  font-weight: bold;
+}
+
 p.small {
   font-size: 16px;
 }
