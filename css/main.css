@@ -213,7 +213,8 @@ section.cv {
     /*background: #555555;*/
    /* background: white;*/
    background-image: url("images/flinstonepattern.png");
-    color: black;
+   /* color: black;*/
+    background-repeat: repeat;
 }
 
 /*#portfolio .portfolio-item {
