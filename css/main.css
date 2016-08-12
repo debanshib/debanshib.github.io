@@ -211,7 +211,8 @@ section.projects {
 
 section.cv {
     /*background: #555555;*/
-    background: white;
+   /* background: white;*/
+   background-image: 'images/flintstonepattern.png';
     color: black;
 }
 
