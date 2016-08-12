@@ -201,6 +201,8 @@ section.about {
     padding-top: 200px;
    /* background: black;
     color: white;*/
+    background-image: url("washedoutbg.png");
+    background-repeat: repeat;
    background: white;
   /* color: black;*/
 }
