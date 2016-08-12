@@ -212,8 +212,8 @@ section.projects {
 section.cv {
     /*background: #555555;*/
    /* background: white;*/
-   background-image: url("bg2.png");
-   /* color: black;*/
+   background-image: url("bg3.png");
+    color: white;
     background-repeat: repeat;
 }
 
