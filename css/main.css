@@ -98,6 +98,10 @@ h6 {
 .img-centered {
   margin: 0 auto;
 }
+
+.img-project {
+  border: 4px 4px 4px 4px;
+}
 /*header {
   text-align: center;*/
  /* background: #18BC9C;*/
