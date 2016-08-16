@@ -10,6 +10,10 @@
   margin: 0px;
 }*/
 
+.description {
+  font-size: 18px;
+}
+
 /*  COLUMN SETUP  */
 .col {
   display: block;
